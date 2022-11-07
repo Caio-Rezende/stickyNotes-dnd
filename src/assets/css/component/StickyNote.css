@@ -1,0 +1,18 @@
+.StickyNote {
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 4px;
+    position: absolute;
+    outline: none;
+}
+.StickyNote:focus {
+    border-color: black;
+}
+
+.StickyNoteColorChange {
+    height: 20px;
+    position: absolute;
+    width: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
